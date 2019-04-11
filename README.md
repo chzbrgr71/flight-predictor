@@ -1,4 +1,4 @@
-# Flight Predcitor Tensorflow
+# Flight Predictor Tensorflow
 
 
 ### Links
