@@ -1,5 +1,14 @@
 # Flight Predictor Tensorflow
 
+### Running in Docker
+
+docker run -it --rm --name tf \
+  --publish 6006:6006 \
+  --volume /home/me:/me \
+  --workdir /me \
+  tensorflow/tensorflow:2.0.0a0 bash
+
+
 
 ### Links
 
